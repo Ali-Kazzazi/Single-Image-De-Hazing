@@ -11,6 +11,6 @@
     - scipy
     - matplotlib
 
-The WSL Optimizer is used to optimize the parameters of the model which the repository of this optimizer is: https://github.com/Ali-Kazzazi/WeightedLeastSquaresFilter
+The WSL Optimizer is used to optimize the parameters of the model which the repository of this optimizer is: https://github.com/goldbema/WeightedLeastSquaresFilter.git
 
 
